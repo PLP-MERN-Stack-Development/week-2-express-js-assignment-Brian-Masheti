@@ -15,7 +15,7 @@ git clone [https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assig
 cd 'Your Working Directory'
    ```bash
    git clone <your-repo-url>
-   cd week-2-express-js-assignment-Brian-Masheti
+   cd <your CWD>
    ```
 
 2. **Install Dependencies**:
