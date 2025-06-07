@@ -75,7 +75,6 @@ cd week-2-express-js-assignment-Brian-Masheti
 - **category**: String, optional (e.g., "electronics")
 - **inStock**: Boolean, default `true`
 - **image**: String, optional, path to image (e.g., "images/headphones.png")
-- **color**: String, optional (e.g., "Black")
 
 ### Image Support
 - The `image` field in `POST` and `PUT` requests accepts a string path (e.g., `"image": "images/headphones.png"`).
