@@ -12,7 +12,7 @@ This API allows users to create, read, update, and delete products, with protect
 
 ```bash
 git clone [https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Brian-Masheti.git](https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Brian-Masheti.git)
-cd week-2-express-js-assignment-Brian-Masheti
+cd 'Your Working Directory'
    ```bash
    git clone <your-repo-url>
    cd week-2-express-js-assignment-Brian-Masheti
