@@ -104,7 +104,7 @@ cd week-2-express-js-assignment-Brian-Masheti
       "updatedAt": "...",
       "__v": 0
     },
-  
+    
   ]
   ```
 
