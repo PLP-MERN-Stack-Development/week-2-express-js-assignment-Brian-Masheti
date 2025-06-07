@@ -99,7 +99,6 @@ cd week-2-express-js-assignment-Brian-Masheti
       "category": "electronics",
       "inStock": true,
       "image": "images/headphones.png",
-      "color": "Black",
       "createdAt": "...",
       "updatedAt": "...",
       "__v": 0
@@ -126,7 +125,6 @@ cd week-2-express-js-assignment-Brian-Masheti
     "category": "kitchen",
     "inStock": true,
     "image": "images/blender.png",
-    "color": "Silver",
     "createdAt": "...",
     "updatedAt": "...",
     "__v": 0
@@ -151,7 +149,6 @@ cd week-2-express-js-assignment-Brian-Masheti
     "category": "electronics",
     "inStock": true,
     "image": "images/headphones.png",
-    "color": "Black",
     "createdAt": "...",
     "updatedAt": "...",
     "__v": 0
